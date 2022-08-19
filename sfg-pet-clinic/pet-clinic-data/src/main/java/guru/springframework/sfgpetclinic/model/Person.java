@@ -1,4 +1,4 @@
-package com.easypaygroup.sfgpetclinic.model;
+package guru.springframework.sfgpetclinic.model;
 
 public class Person {
 
